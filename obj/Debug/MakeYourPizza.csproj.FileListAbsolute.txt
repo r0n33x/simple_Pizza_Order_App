@@ -1,0 +1,10 @@
+D:\MakeYourPizzaProject\MakeYourPizza\bin\Debug\MakeYourPizza.exe.config
+D:\MakeYourPizzaProject\MakeYourPizza\bin\Debug\MakeYourPizza.exe
+D:\MakeYourPizzaProject\MakeYourPizza\bin\Debug\MakeYourPizza.pdb
+D:\MakeYourPizzaProject\MakeYourPizza\obj\Debug\MakeYourPizza.csproj.AssemblyReference.cache
+D:\MakeYourPizzaProject\MakeYourPizza\obj\Debug\MakeYourPizza.Form1.resources
+D:\MakeYourPizzaProject\MakeYourPizza\obj\Debug\MakeYourPizza.Properties.Resources.resources
+D:\MakeYourPizzaProject\MakeYourPizza\obj\Debug\MakeYourPizza.csproj.GenerateResource.cache
+D:\MakeYourPizzaProject\MakeYourPizza\obj\Debug\MakeYourPizza.csproj.CoreCompileInputs.cache
+D:\MakeYourPizzaProject\MakeYourPizza\obj\Debug\MakeYourPizza.exe
+D:\MakeYourPizzaProject\MakeYourPizza\obj\Debug\MakeYourPizza.pdb
